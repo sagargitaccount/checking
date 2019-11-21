@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\Sagar\Desktop\checking
+
+21-11-2019  07:57    <DIR>          .
+21-11-2019  07:57    <DIR>          ..
+21-11-2019  07:55                39 check.txt
+21-11-2019  07:57                 0 t1.txt
+               2 File(s)             39 bytes
+               2 Dir(s)  198,461,341,696 bytes free
